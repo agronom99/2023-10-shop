@@ -77,7 +77,7 @@ text-align: center;
 .item {
   width: 100%;
   float: left;
-  margin-bottom: 20px;
+  margin: 20px;
 }
 .item img {
   width: 70px;
@@ -88,7 +88,7 @@ text-align: center;
 .delete-icon{
   float: right;
   position: relative;
-  right: 25px;
+  right: 45px;
   cursor: pointer;
   transition: color, transform 500ms ease;
 
